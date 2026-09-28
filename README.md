@@ -44,40 +44,18 @@ Estudiante de Ingeniería Civil Informática en la Universidad Católica del Mau
 
 ## 🎬 Videos destacados
 
-Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudiantes de Ing. Civil Informática UCM 2025 ([CEICI](https://www.youtube.com/@CEICI-UCM)).
+Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudiantes de Ing. Civil Informática UCM ([CEICI](https://www.youtube.com/@CEICI-UCM)).
 
 <table>
   <tr>
     <td width="45%">
-      <a href="https://www.youtube.com/watch?v=ZjGXqe79K0Q&t=3663s">
-        <img src="https://img.youtube.com/vi/ZjGXqe79K0Q/maxresdefault.jpg" alt="Radio Computeam #4 con PauloDibuja" width="100%">
+      <a href="https://www.youtube.com/watch?v=LxmDvd4rdVE">
+        <img src="https://img.youtube.com/vi/LxmDvd4rdVE/maxresdefault.jpg" alt="Radio Computeam #9" width="100%">
       </a>
     </td>
     <td width="55%">
-      <h3>RADIO COMPUTEAM #4 | Conversando con @PauloDibuja | GameDev, YouTuber y Estudiante de Informática</h3>
-      <p>Creación de videojuegos indie, recreaciones de clásicos y devlogs.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="45%">
-      <a href="https://www.youtube.com/watch?v=T0ejgo31_d4&t=2009s">
-        <img src="https://img.youtube.com/vi/T0ejgo31_d4/maxresdefault.jpg" alt="Radio Computeam #5" width="100%">
-      </a>
-    </td>
-    <td width="55%">
-      <h3>RADIO COMPUTEAM #5 | Simulando el mundo atómico: física, nanotecnología y machine learning</h3>
-      <p>Simulación de materiales a escala atómica con computación de alto rendimiento y machine learning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="45%">
-      <a href="https://www.youtube.com/watch?v=WQDydHN7LZw&t=719s">
-        <img src="https://img.youtube.com/vi/WQDydHN7LZw/maxresdefault.jpg" alt="Radio Computeam #7" width="100%">
-      </a>
-    </td>
-    <td width="55%">
-      <h3>RADIO COMPUTEAM #7 | CEO y Docente nos habla sobre emprendimiento, innovación y educación</h3>
-      <p>Emprendimiento tecnológico desde Latinoamérica y herramientas low-code.</p>
+      <h3>RADIO COMPUTEAM #9 | Construyendo soluciones en datos: experiencia de un Head of Data Engineering</h3>
+      <p>Ingeniería de datos, machine learning y cómo pasar de la universidad a la industria.</p>
     </td>
   </tr>
   <tr>
@@ -93,13 +71,35 @@ Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudi
   </tr>
   <tr>
     <td width="45%">
-      <a href="https://www.youtube.com/watch?v=LxmDvd4rdVE">
-        <img src="https://img.youtube.com/vi/LxmDvd4rdVE/maxresdefault.jpg" alt="Radio Computeam #9" width="100%">
+      <a href="https://www.youtube.com/watch?v=WQDydHN7LZw&t=719s">
+        <img src="https://img.youtube.com/vi/WQDydHN7LZw/maxresdefault.jpg" alt="Radio Computeam #7" width="100%">
       </a>
     </td>
     <td width="55%">
-      <h3>RADIO COMPUTEAM #9 | Construyendo soluciones en datos: experiencia de un Head of Data Engineering</h3>
-      <p>Ingeniería de datos, machine learning y cómo pasar de la universidad a la industria.</p>
+      <h3>RADIO COMPUTEAM #7 | CEO y Docente nos habla sobre emprendimiento, innovación y educación</h3>
+      <p>Emprendimiento tecnológico desde Latinoamérica y herramientas low-code.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=T0ejgo31_d4&t=2009s">
+        <img src="https://img.youtube.com/vi/T0ejgo31_d4/maxresdefault.jpg" alt="Radio Computeam #5" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>RADIO COMPUTEAM #5 | Simulando el mundo atómico: física, nanotecnología y machine learning</h3>
+      <p>Simulación de materiales a escala atómica con computación de alto rendimiento y machine learning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=ZjGXqe79K0Q&t=3663s">
+        <img src="https://img.youtube.com/vi/ZjGXqe79K0Q/maxresdefault.jpg" alt="Radio Computeam #4 con PauloDibuja" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>RADIO COMPUTEAM #4 | Conversando con @PauloDibuja | GameDev, YouTuber y Estudiante de Informática</h3>
+      <p>Creación de videojuegos indie, recreaciones de clásicos y devlogs.</p>
     </td>
   </tr>
 </table>
@@ -110,7 +110,6 @@ Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudi
 - **Presidente y Vicepresidente** del Centro de Estudiantes de Ing. Civil Informática (2023 – 2025)
 - **Vinculación con el Medio**: representé a la Escuela en liceos y en la Expo UCM
 - **Ayudante de Facultad** en la Escuela de Ing. Civil Informática (2024 – 2025)
-- **Pasantía en 3 Volcanes SpA**: PostgreSQL, Prisma, GraphQL y Angular (2023)
 
 ## 📊 Estadísticas
 
@@ -125,6 +124,6 @@ Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudi
 
 ## 📫 Contacto
 
-Escríbeme por [Instagram](https://www.instagram.com/jairo_albornoz.pixx/) o visita mi [portafolio](https://jairoalbornoz.com).
+Escríbeme por [Correo](jairo.albornoz@hotmail.es), [Instagram](https://www.instagram.com/jairo_albornoz.pixx/) o visita mi [portafolio](https://jairoalbornoz.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
