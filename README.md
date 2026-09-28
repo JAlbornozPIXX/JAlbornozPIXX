@@ -122,8 +122,4 @@ Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudi
 
 </div>
 
-## 📫 Contacto
-
-Escríbeme por [Correo](jairo.albornoz@hotmail.es), [Instagram](https://www.instagram.com/jairo_albornoz.pixx/) o visita mi [portafolio](https://jairoalbornoz.com).
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
