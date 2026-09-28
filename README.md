@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Albornoz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20web%20y%20m%C3%B3vil%20%7C%20Cofundador%20de%20Pollium&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Albornoz%20Figueroa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20web%20y%20m%C3%B3vil%20%7C%20Cofundador%20de%20Pollium%20%7C%20Fot%C3%B3grafo%20freelance&descAlignY=58&descSize=18" alt="banner" />
 
 <a href="https://jairoalbornoz.com"><img src="https://img.shields.io/badge/Portafolio-jairoalbornoz.com-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://learn.pollium.io"><img src="https://img.shields.io/badge/Pollium-learn.pollium.io-7C3AED?style=for-the-badge&logoColor=white" /></a>
