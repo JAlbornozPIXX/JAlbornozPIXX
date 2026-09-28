@@ -13,12 +13,11 @@
 
 ## 👋 Sobre mí
 
-Estudiante de quinto año de **Ingeniería Civil Informática** en la Universidad Católica del Maule, buscando práctica profesional en Santiago. Me muevo entre el desarrollo web y móvil, la gestión de datos y la automatización de procesos, y me gusta liderar equipos: fui vicepresidente y presidente del Centro de Estudiantes de mi carrera.
+Estudiante de Ingeniería Civil Informática en la Universidad Católica del Maule 🇨🇱 que combina desarrollo web y móvil (React, Next.js y React Native) con fotografía freelance. Cofundador de Pollium y buscando práctica profesional en Santiago.
 
-- 🚀 Cofundador de **[Pollium](https://learn.pollium.io)**, plataforma de estudio con IA que convierte apuntes en lecciones, tarjetas de memoria y podcasts
-- 💻 Desarrollo apps con React, Next.js, React Native y Supabase
-- 📸 Fotógrafo freelance: gestiono cotización, agenda, edición y entrega
-- 🎙️ Dirigí un podcast de entrevistas para formación de estudiantes
+- 🚀 Cofundador de **[Pollium](https://learn.pollium.io)**, plataforma de estudio con integrada con IA que convierte apuntes en lecciones, tarjetas de memoria y podcasts
+- 💻 Desarrollo apps con React, Next.js, React Native
+- 📸 Fotógrafo freelance en [Jairo Albornoz Fotógrafo](https://jairoalbornoz.com/)**, bodas, eventos, corporativos y más 
 
 ## 🛠️ Tecnologías
 
