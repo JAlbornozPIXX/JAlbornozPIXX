@@ -13,7 +13,7 @@
 
 ## 👋 Sobre mí
 
-Estudiante de Ingeniería Civil Informática en la Universidad Católica del Maule 🇨🇱 que combina desarrollo web y móvil (React, Next.js y React Native) con fotografía freelance. Cofundador de Pollium y buscando práctica profesional en Santiago.
+Estudiante de Ingeniería Civil Informática en la Universidad Católica del Maule 🇨🇱 en busqueda de práctica profesional en Santiago.
 
 - 🚀 Cofundador de **[Pollium](https://learn.pollium.io)**, plataforma de estudio autónomo integrada con IA
 - 💻 Desarrollo apps con React, Next.js, React Native
@@ -44,27 +44,62 @@ Estudiante de Ingeniería Civil Informática en la Universidad Católica del Mau
 
 ## 🎬 Videos destacados
 
+Episodios de **Radio Computeam**, el podcast de entrevistas del Centro de Estudiantes de Ing. Civil Informática UCM 2025 ([CEICI](https://www.youtube.com/@CEICI-UCM)).
+
 <table>
   <tr>
     <td width="45%">
-      <a href="https://www.youtube.com/watch?v=LxmDvd4rdVE">
-        <img src="https://img.youtube.com/vi/LxmDvd4rdVE/maxresdefault.jpg" alt="Título del video 1" width="100%">
+      <a href="https://www.youtube.com/watch?v=ZjGXqe79K0Q&t=3663s">
+        <img src="https://img.youtube.com/vi/ZjGXqe79K0Q/maxresdefault.jpg" alt="Radio Computeam #4 con PauloDibuja" width="100%">
       </a>
     </td>
     <td width="55%">
-      <h3>Título del video 1</h3>
-      <p>Descripción breve de qué trata el video y qué puede aprender o ver quien lo abra.</p>
+      <h3>RADIO COMPUTEAM #4 | Conversando con @PauloDibuja | GameDev, YouTuber y Estudiante de Informática</h3>
+      <p>Creación de videojuegos indie, recreaciones de clásicos y devlogs.</p>
     </td>
   </tr>
   <tr>
     <td width="45%">
-      <a href="https://www.youtube.com/watch?v=T0ejgo31_d4&t=2004s">
-        <img src="https://img.youtube.com/vi/T0ejgo31_d4/maxresdefault.jpg" alt="Título del video 2" width="100%">
+      <a href="https://www.youtube.com/watch?v=T0ejgo31_d4&t=2009s">
+        <img src="https://img.youtube.com/vi/T0ejgo31_d4/maxresdefault.jpg" alt="Radio Computeam #5" width="100%">
       </a>
     </td>
     <td width="55%">
-      <h3>Título del video 2</h3>
-      <p>Descripción breve de qué trata el video y qué puede aprender o ver quien lo abra.</p>
+      <h3>RADIO COMPUTEAM #5 | Simulando el mundo atómico: física, nanotecnología y machine learning</h3>
+      <p>Simulación de materiales a escala atómica con computación de alto rendimiento y machine learning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=WQDydHN7LZw&t=719s">
+        <img src="https://img.youtube.com/vi/WQDydHN7LZw/maxresdefault.jpg" alt="Radio Computeam #7" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>RADIO COMPUTEAM #7 | CEO y Docente nos habla sobre emprendimiento, innovación y educación</h3>
+      <p>Emprendimiento tecnológico desde Latinoamérica y herramientas low-code.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=6gh_TwwQDGs&t=1524s">
+        <img src="https://img.youtube.com/vi/6gh_TwwQDGs/maxresdefault.jpg" alt="Radio Computeam #8" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>RADIO COMPUTEAM #8 | Docente y Subgerente habla de Telecomunicaciones, Ciberseguridad 🎙️</h3>
+      <p>Redes, ciberseguridad y tendencias como 5G y SD-WAN, con un subgerente de operaciones de Entel.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=LxmDvd4rdVE">
+        <img src="https://img.youtube.com/vi/LxmDvd4rdVE/maxresdefault.jpg" alt="Radio Computeam #9" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>RADIO COMPUTEAM #9 | Construyendo soluciones en datos: experiencia de un Head of Data Engineering</h3>
+      <p>Ingeniería de datos, machine learning y cómo pasar de la universidad a la industria.</p>
     </td>
   </tr>
 </table>
