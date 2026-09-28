@@ -15,9 +15,9 @@
 
 Estudiante de Ingeniería Civil Informática en la Universidad Católica del Maule 🇨🇱 que combina desarrollo web y móvil (React, Next.js y React Native) con fotografía freelance. Cofundador de Pollium y buscando práctica profesional en Santiago.
 
-- 🚀 Cofundador de **[Pollium](https://learn.pollium.io)**, plataforma de estudio con integrada con IA que convierte apuntes en lecciones, tarjetas de memoria y podcasts
+- 🚀 Cofundador de **[Pollium](https://learn.pollium.io)**, plataforma de estudio autónomo integrada con IA
 - 💻 Desarrollo apps con React, Next.js, React Native
-- 📸 Fotógrafo freelance en [Jairo Albornoz Fotógrafo](https://jairoalbornoz.com/)**, bodas, eventos, corporativos y más 
+- 📸 Fotógrafo freelance en **[Jairo Albornoz Fotógrafo](https://jairoalbornoz.com/)**, bodas, eventos, corporativos y más 
 
 ## 🛠️ Tecnologías
 
@@ -44,23 +44,13 @@ Estudiante de Ingeniería Civil Informática en la Universidad Católica del Mau
 
 </div>
 
-## 🚀 Proyectos
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[Pollium](https://learn.pollium.io)** | Plataforma de aprendizaje autónomo con IA: lecciones, tarjetas de memoria y podcasts a partir de tus apuntes (cofundador) | IA |
-| **Generador de material didáctico con IA** | Herramienta que genera material y presentaciones personalizadas mediante tool calling *(en desarrollo)* | Next.js, TypeScript, Vercel AI SDK, MCP |
-| **CineTeca** | Catálogo y seguimiento de películas con estados, calificación por estrellas y sugerencias *(en desarrollo)* | React Native, Expo, TypeScript, Supabase |
-| **App de gestión de clientes** | App enlazada a mi portafolio para recibir formularios, emitir reportes y generar facturas, boletas y cotizaciones *(en desarrollo)* | React Native, Expo, Supabase |
-| **[Portafolio de fotografía](https://github.com/JAlbornozPIXX/portafolio-web)** | Sitio web para exhibir mi trabajo como fotógrafo freelance | Next.js, TypeScript, Supabase |
-
 ## 🎬 Video destacado
 
 Reemplaza `VIDEO_ID` por el código que aparece después de `v=` en la URL del video (por ejemplo, uno del podcast del Centro de Estudiantes o una demo de Pollium):
 
 <div align="center">
 
-[![Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=LxmDvd4rdVE))
 
 </div>
 
