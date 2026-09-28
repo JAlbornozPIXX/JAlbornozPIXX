@@ -42,17 +42,32 @@ Estudiante de Ingeniería Civil Informática en la Universidad Católica del Mau
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-</div>
+## 🎬 Videos destacados
 
-## 🎬 Video destacado
-
-Reemplaza `VIDEO_ID` por el código que aparece después de `v=` en la URL del video (por ejemplo, uno del podcast del Centro de Estudiantes o una demo de Pollium):
-
-<div align="center">
-
-[![Mira el video en YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=[VIDEO_ID](https://www.youtube.com/watch?v=LxmDvd4rdVE))
-
-</div>
+<table>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=LxmDvd4rdVE">
+        <img src="https://img.youtube.com/vi/LxmDvd4rdVE/maxresdefault.jpg" alt="Título del video 1" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>Título del video 1</h3>
+      <p>Descripción breve de qué trata el video y qué puede aprender o ver quien lo abra.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="45%">
+      <a href="https://www.youtube.com/watch?v=T0ejgo31_d4&t=2004s">
+        <img src="https://img.youtube.com/vi/T0ejgo31_d4/maxresdefault.jpg" alt="Título del video 2" width="100%">
+      </a>
+    </td>
+    <td width="55%">
+      <h3>Título del video 2</h3>
+      <p>Descripción breve de qué trata el video y qué puede aprender o ver quien lo abra.</p>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Formación y liderazgo
 
