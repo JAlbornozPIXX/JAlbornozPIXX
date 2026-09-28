@@ -2,12 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jairo%20Albornoz&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollo%20web%20y%20m%C3%B3vil%20%7C%20Cofundador%20de%20Pollium&descAlignY=58&descSize=18" alt="banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Estudiante+de+Ing.+Civil+Inform%C3%A1tica+%F0%9F%87%A8%F0%9F%87%B1;Cofundador+de+Pollium+%E2%80%94+IA+para+aprender;React%2C+Next.js+y+React+Native;Fot%C3%B3grafo+freelance+%F0%9F%93%B8" alt="Typing SVG" />
-
 <a href="https://jairoalbornoz.com"><img src="https://img.shields.io/badge/Portafolio-jairoalbornoz.com-2c5364?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://learn.pollium.io"><img src="https://img.shields.io/badge/Pollium-learn.pollium.io-7C3AED?style=for-the-badge&logoColor=white" /></a>
 <a href="https://www.instagram.com/jairo_albornoz.pixx/"><img src="https://img.shields.io/badge/Instagram-@jairo__albornoz.pixx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/@CEICI-UCM"><img src="https://img.shields.io/badge/YouTube-CEICI%20UCM-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <!-- <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 </div>
